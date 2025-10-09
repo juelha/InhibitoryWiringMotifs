@@ -15,6 +15,7 @@ How can inhibitory wiring motifs change the learned representations of the excit
 
 | Control |[Diehl & Cook, 2015](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2015.00099/full) wiring motif | [Hazan et al., 2018](https://arxiv.org/abs/1807.09374) wiring motif |
 | ------------- | ------------- | ------------- |
+| <img src="figs\control_setup.png" width="300" /> |  <img src="figs\dc_setup.png" width="290" /> | <img src="figs\dist_setup.png" width="280" /> | 
 | <img src="figs\stdp_only.png" width="300" /> |  <img src="figs\dc.png" width="300" /> | <img src="figs\dist.png" width="300" /> | 
 
 ---
